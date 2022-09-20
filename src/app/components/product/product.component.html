@@ -1,0 +1,55 @@
+<!--p>{{product |json}}</p-->
+<app-loader *ngIf="isLoading"></app-loader>
+
+<div *ngIf="!isLoading" class="single-product flex gap-10 content ">
+
+  <div class="single-product-image flex gap-10 flex-1 ">
+    <div class="single-product-image-list flex column gap-2">
+      <img *ngFor="let url of product?.imageUrl"
+      width="100"
+      [src]="url" [alt]="product?.name"
+      (click)="handleChangeCurrentImage(url)"
+      (mouseover)="handleChangeCurrentImage(url)"
+      class="current"
+      [ngClass]="{current: currentImage == url}">
+      <!--[src]="product ? product.imageUrl[0]: ''
+      [ngClass]="'{current: condition}'" Encadre tous les mini images-->
+
+    </div>
+
+    <div class="single-product-image-current flex-3">
+      <!--img [src]="product ? product.imageUrl[0]: ''" [alt]="product?.name"-->
+      <img [src]="currentImage" alt="product?.name">
+    </div>
+
+  </div>
+
+  <div class="single-product-details flex-1 ">
+    <h2>{{product?.name}}</h2>
+    <div class="single-product-details-price flex aic gap-10 ">
+      <!--h3>{{ (product?.sold_price || 0) /100 }}</h3> < On met 0 si pas de valeur, ou bien on divise par 100 -->
+      <h4>{{ product?.sold_price | currency:"EUR" }}</h4>
+      <del><h4 style="font-size: 2.3rem;">{{ product?.regular_price | currency:"EUR"}}</h4></del>
+      <h4 style="font-size: 2rem;">- {{ product ? ( (product.regular_price/100 - product.sold_price/100) | percent) : null}}</h4>
+    </div>
+
+    <div class="product-action-button flex column gap-5 jcc">
+      <button class="btn-main-color" style="margin-top: 50px; width: 50%;" >Add to cart</button>
+      <button class="btn-main-color" style="width: 50%;" >Pay now</button>
+      <app-paymaent-card></app-paymaent-card>
+      <!--app-paymaent-card [fullwidth]="true"></app-paymaent-card-->
+    </div>
+
+    <div class="single-product-details-created_at">
+      Créé le {{product?.created_at | date:"dd/MM/YYYY"}}
+    </div>
+
+  </div>
+
+
+</div>
+
+<app-product-details *ngIf="!isLoading" [product]="product"></app-product-details>
+<!--Comme c'est asynchrone on risque d'afficher alors que le prod n'est encore récuperer
+Therefore, on s'assure qu'il n'y a plus de chargement (tout a été récuperé)-->
+

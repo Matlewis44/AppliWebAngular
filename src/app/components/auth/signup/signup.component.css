@@ -1,0 +1,101 @@
+/* 1er TP
+.signup{
+  width: 600px;
+  margin: 20px auto ;
+  border: 0.1px solid black;
+  height: 600px;
+}
+
+.form-inline input{
+  border: 0.1px solid #ccc;
+  margin: 5px;
+  height: 40px;
+  width: 60%;
+  padding: 10px;
+  font-size: 1.2rem;
+}
+
+.form-inline button{
+  height: 40px;
+  border: none;
+  width: 100px;
+  color: white;
+  background-color: black;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1.2rem;
+
+}
+.signup ul{
+  list-style: none;
+  padding: 2px;
+}
+.signup ul li{
+  border: 0.1px solid #1d1d1d;
+  justify-content: space-between;
+  padding: 5px;
+}
+*/
+
+/*** TP 2**/
+
+.signup{
+  /*height: 70vh;*/
+  height: calc(100vh - 230px);
+}
+.form-container{
+ /* background-color: rgb(0, 132, 255);*/
+  width: 50%;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 0.1px solid #ccc;
+  box-shadow: 0 3px 5px -1px #0003, 0 6px 10px #00000024, 0 1px 18px #0000001f ;
+}
+.btn{
+  height: 40px;
+  border: none;
+  width: 80px;
+  color: white;
+  background-color: black;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+form{
+  border: 0.1px solid black;
+  padding: 10px;
+}
+
+form .form-line{
+  min-height: 40px;
+  padding: 10px 0;
+}
+form .btn{
+  height: 45px;
+}
+
+.btn:hover{
+  filter:brightness(200%);
+}
+
+form .form-line input{
+  font-size: 1.4rem;
+  padding: 0 10px;
+  height: 50px;
+  border: none;
+  border-bottom: 0.1px solid #ccc;
+  outline-color: #3f51b5;
+  border-radius: 10px;
+}
+
+
+@media screen and (max-width: 550px) {
+  .form-container{
+    width: 90%;
+
+  }
+
+}

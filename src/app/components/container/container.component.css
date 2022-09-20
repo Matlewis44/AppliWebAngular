@@ -1,0 +1,11 @@
+.container{
+  /*min-height: calc(100vh - 230px); /*on prend 100% de la taille de l'écran et on soustrait footer + header*/
+  min-height: 70vh;
+  /*background-color: #efefef;*/
+  color: black;
+}
+
+.h1{
+  margin: 0;
+  padding: 10px 0;
+}
