@@ -8,10 +8,10 @@
       "Homme"
     ],
     "imageUrl": [
-      "../assets/img/product/chemise 1/chemise 1.webp",
-      "../assets/img/product/chemise 1/chemise 2.webp",
-      "../assets/img/product/chemise 1/chemise 3.webp",
-      "../assets/img/product/chemise 1/chemise 4.webp"
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 1/chemise 1.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 1/chemise 2.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 1/chemise 3.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 1/chemise 4.webp"
     ],
     "sold_price": 20.99,
     "regular_price": 60.99,
@@ -58,10 +58,10 @@
       "Homme"
     ],
     "imageUrl": [
-      "../assets/img/product/chemise 3/1.png",
-      "../assets/img/product/chemise 3/2.png",
-      "../assets/img/product/chemise 3/3.png",
-      "../assets/img/product/chemise 3/4.png"
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 3/1.png",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 3/2.png",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 3/3.png",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 3/4.png"
     ],
     "sold_price": 20.99,
     "regular_price": 60.99,
@@ -83,10 +83,10 @@
       "Homme"
     ],
     "imageUrl": [
-      "../assets/img/product/chemise 4/1.webp",
-      "../assets/img/product/chemise 4/2.webp",
-      "../assets/img/product/chemise 4/3.jpg",
-      "../assets/img/product/chemise 4/4.jpg"
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 4/1.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 4/2.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 4/3.jpg",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 4/4.jpg"
     ],
     "sold_price": 20.99,
     "regular_price": 60.99,
@@ -108,10 +108,10 @@
       "Homme"
     ],
     "imageUrl": [
-      "../assets/img/product/chemise 5/1.webp",
-      "../assets/img/product/chemise 5/2.webp",
-      "../assets/img/product/chemise 5/3.webp",
-      "../assets/img/product/chemise 5/4.webp"
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 5/1.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 5/2.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 5/3.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 5/4.webp"
     ],
     "sold_price": 20.99,
     "regular_price": 60.99,
@@ -133,10 +133,10 @@
       "Homme"
     ],
     "imageUrl": [
-      "../assets/img/product/chemise 6/1.webp",
-      "../assets/img/product/chemise 6/2.webp",
-      "../assets/img/product/chemise 6/3.webp",
-      "../assets/img/product/chemise 6/4.webp"
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 6/1.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 6/2.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 6/3.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 6/4.webp"
     ],
     "sold_price": 20.99,
     "regular_price": 60.99,
@@ -158,10 +158,10 @@
       "Homme"
     ],
     "imageUrl": [
-      "../assets/img/product/chemise 7/1.webp",
-      "../assets/img/product/chemise 7/2.webp",
-      "../assets/img/product/chemise 7/3.webp",
-      "../assets/img/product/chemise 7/4.webp"
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 7/1.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 7/2.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 7/3.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 7/4.webp"
     ],
     "sold_price": 20.99,
     "regular_price": 60.99,
@@ -183,10 +183,10 @@
       "Homme"
     ],
     "imageUrl": [
-      "../assets/img/product/chemise 8/1.webp",
-      "../assets/img/product/chemise 8/2.webp",
-      "../assets/img/product/chemise 8/3.webp",
-      "../assets/img/product/chemise 8/4.webp"
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 8/1.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 8/2.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 8/3.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 8/4.webp"
     ],
     "sold_price": 20.99,
     "regular_price": 60.99,
@@ -208,10 +208,10 @@
       "Homme"
     ],
     "imageUrl": [
-      "../assets/img/product/chemise 9/1.webp",
-      "../assets/img/product/chemise 9/2.webp",
-      "../assets/img/product/chemise 9/3.webp",
-      "../assets/img/product/chemise 9/4.webp"
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 9/1.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 9/2.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 9/3.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 9/4.webp"
     ],
     "sold_price": 20.99,
     "regular_price": 60.99,
@@ -233,10 +233,10 @@
       "Homme"
     ],
     "imageUrl": [
-      "../assets/img/product/chemise 10/1.webp",
-      "../assets/img/product/chemise 10/2.webp",
-      "../assets/img/product/chemise 10/3.webp",
-      "../assets/img/product/chemise 10/4.webp"
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 10/1.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 10/2.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 10/3.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 10/4.webp"
     ],
     "sold_price": 40.99,
     "regular_price": 60.99,
@@ -258,10 +258,10 @@
       "Homme"
     ],
     "imageUrl": [
-      "../assets/img/product/chemise 11/1.webp",
-      "../assets/img/product/chemise 11/2.webp",
-      "../assets/img/product/chemise 11/3.webp",
-      "../assets/img/product/chemise 11/4.webp"
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 11/1.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 11/2.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 11/3.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 11/4.webp"
     ],
     "sold_price": 40.99,
     "regular_price": 60.99,
@@ -283,10 +283,10 @@
       "Homme"
     ],
     "imageUrl": [
-      "../assets/img/product/chemise 12/1.webp",
-      "../assets/img/product/chemise 12/2.webp",
-      "../assets/img/product/chemise 12/3.webp",
-      "../assets/img/product/chemise 12/4.webp"
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 12/1.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 12/2.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 12/3.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 12/4.webp"
     ],
     "sold_price": 40.99,
     "regular_price": 60.99,
@@ -308,10 +308,10 @@
       "Homme"
     ],
     "imageUrl": [
-      "../assets/img/product/chemise 13/1.webp",
-      "../assets/img/product/chemise 13/2.webp",
-      "../assets/img/product/chemise 13/3.webp",
-      "../assets/img/product/chemise 13/4.webp"
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 13/1.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 13/2.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 13/3.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 13/4.webp"
     ],
     "sold_price": 35.99,
     "regular_price": 60.99,
@@ -333,10 +333,10 @@
       "Homme"
     ],
     "imageUrl": [
-      "../assets/img/product/chemise 14/1.webp",
-      "../assets/img/product/chemise 14/2.webp",
-      "../assets/img/product/chemise 14/3.webp",
-      "../assets/img/product/chemise 14/4.webp"
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 14/1.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 14/2.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 14/3.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 14/4.webp"
     ],
     "sold_price": 35.99,
     "regular_price": 60.99,
@@ -358,10 +358,10 @@
       "Homme"
     ],
     "imageUrl": [
-      "../assets/img/product/chemise 15/1.webp",
-      "../assets/img/product/chemise 15/2.webp",
-      "../assets/img/product/chemise 15/3.webp",
-      "../assets/img/product/chemise 15/4.webp"
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 15/1.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 15/2.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 15/3.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 15/4.webp"
     ],
     "sold_price": 35.99,
     "regular_price": 60.99,
@@ -383,10 +383,10 @@
       "Homme"
     ],
     "imageUrl": [
-      "../assets/img/product/chemise 16/1.webp",
-      "../assets/img/product/chemise 16/2.webp",
-      "../assets/img/product/chemise 16/3.webp",
-      "../assets/img/product/chemise 16/4.webp"
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 16/1.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 16/2.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 16/3.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 16/4.webp"
     ],
     "sold_price": 35.99,
     "regular_price": 60.99,
@@ -408,10 +408,10 @@
       "Homme"
     ],
     "imageUrl": [
-      "../assets/img/product/chemise 17/1.webp",
-      "../assets/img/product/chemise 17/2.webp",
-      "../assets/img/product/chemise 17/3.webp",
-      "../assets/img/product/chemise 17/4.webp"
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 17/1.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 17/2.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 17/3.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 17/4.webp"
     ],
     "sold_price": 35.99,
     "regular_price": 60.99,
@@ -433,10 +433,10 @@
       "Homme"
     ],
     "imageUrl": [
-      "../assets/img/product/chemise 18/1.webp",
-      "../assets/img/product/chemise 18/2.webp",
-      "../assets/img/product/chemise 18/3.webp",
-      "../assets/img/product/chemise 18/4.webp"
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 18/1.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 18/2.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 18/3.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 18/4.webp"
     ],
     "sold_price": 35.99,
     "regular_price": 60.99,
@@ -458,10 +458,10 @@
       "Homme"
     ],
     "imageUrl": [
-      "../assets/img/product/chemise 19/1.webp",
-      "../assets/img/product/chemise 19/2.webp",
-      "../assets/img/product/chemise 19/3.webp",
-      "../assets/img/product/chemise 19/4.webp"
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 19/1.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 19/2.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 19/3.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 19/4.webp"
     ],
     "sold_price": 35.99,
     "regular_price": 60.99,
@@ -483,10 +483,10 @@
       "Homme"
     ],
     "imageUrl": [
-      "../assets/img/product/chemise 20/1.webp",
-      "../assets/img/product/chemise 20/2.webp",
-      "../assets/img/product/chemise 20/3.webp",
-      "../assets/img/product/chemise 20/4.webp"
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 20/1.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 20/2.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 20/3.webp",
+      "https://matlewis44.github.io/matlewis44.AngularShopApp/assets/img/product/chemise 20/4.webp"
     ],
     "sold_price": 30.99,
     "regular_price": 60.99,
